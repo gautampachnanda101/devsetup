@@ -1,0 +1,1 @@
+minikube tunnel -c -p devlocal
