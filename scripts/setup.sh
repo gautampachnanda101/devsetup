@@ -3,4 +3,5 @@
 . ./scripts/minikube.sh
 . ./scripts/certs.sh
 . ./scripts/traefik.sh
+. ./scripts/prometheus.sh
 . ./scripts/tunnel.sh
