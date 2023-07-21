@@ -8,4 +8,6 @@ This should setup minikube with:
 - Ingress
 - K8 dashboard and metric server
 - Bitnami helm charts
-- 
+- Prometheus stack
+- Loki
+- otel
