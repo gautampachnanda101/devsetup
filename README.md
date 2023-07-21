@@ -1,13 +1,13 @@
-# devsetup
+# Local developer machine setup for K8
 Setup local k8 cluster using minikube
 
-You cam start the setup on minikube by running the make command `make install`
+You can start the setup on minikube by running the make command `make install`
 
 This should setup minikube with:
-- Traefik
-- Ingress
+- Traefik & ninx Ingress
 - K8 dashboard and metric server
-- Bitnami helm charts
-- Prometheus stack
-- Loki
-- otel
+- Bitnami helm charts with
+  - Prometheus stack
+  - Loki
+  - otel
+  - cert manager
